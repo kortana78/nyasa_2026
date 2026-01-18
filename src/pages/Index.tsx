@@ -5,9 +5,9 @@ import { FixturesWidget } from "@/components/home/FixturesWidget";
 import { LeagueTableWidget } from "@/components/home/LeagueTableWidget";
 import { LiveNowWidget } from "@/components/home/LiveNowWidget";
 
-import newsCelebration from "@/assets/news-celebration.jpg";
-import newsFootball from "@/assets/news-football.jpg";
-import newsCoach from "@/assets/news-coach.jpg";
+import newsCelebration from "@/assets/news_celebration.jfif";
+import newsFootball from "@/assets/news_football.jfif";
+import newsCoach from "@/assets/news_coach.jpeg";
 
 // Sample data
 const breakingNews = [

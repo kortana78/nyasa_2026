@@ -1,8 +1,8 @@
 import { MainLayout } from "@/components/layout/MainLayout";
 import { motion } from "framer-motion";
-import newsCelebration from "@/assets/news_celebration.jpg";
-import newsFootball from "@/assets/news_football.jpg";
-import newsCoach from "@/assets/news_coach.jpg";
+import newsCelebration from "@/assets/news_celebration.jfif";
+import newsFootball from "@/assets/news_football.jfif";
+import newsCoach from "@/assets/news_coach.jpeg";
 
 const newsArticles = [
   {
